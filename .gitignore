@@ -1,0 +1,8 @@
+# Build artifacts
+y.tab.c
+y.tab.h
+y.output
+lex.yy.c
+*.o
+a.out
+a.exe
